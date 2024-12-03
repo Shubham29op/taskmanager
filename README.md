@@ -1,23 +1,15 @@
-<a name="readme-top"></a>
-
-
-<br />
-<div align="center">
-  
-  ![bingoctfgogreenlandingpage](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996606/1_kcceab.png)
-  
 <h3 align="center">
 Task Management Website + Mobile App</h3>
   <p align="center">
     <br />
-    <a href="https://github.com/Puskar-Roy/Task-Management-Web"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Shubham29op/taskmanager"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://alltaskss.vercel.app">Go Live</a>
+    <a </a>
     ·
-    <a href="https://github.com/Puskar-Roy/Task-Management-Web/issues">Report Bug</a>
+    <a href="https://github.com/Shubham29op/taskmanager/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Puskar-Roy/Task-Management-Web/issues">Request Feature</a>
+    <a href="https://github.com/Shubham29op/taskmanager/issues">Request Feature</a>
   </p>
 </div>
 
@@ -27,23 +19,12 @@ Task Management Website + Mobile App</h3>
 
  ### 1. Redux Toolkit for Task State Management
  
-#### All Tasks
- 
- ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996619/2_xv3ljv.png)
- 
  - To change the status of a task to "Complete" and update its date to the date when it was completed.
  
 
 ### 2. Add Task
-  ### Add a new Task
-
-   ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996633/3_ock8xg.png)
-
+  
 - We can add or remove Tasks.
-
-    ### Filter Tasks
-
-   ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711998055/6_fiiti1.png)
 
 -  Allows users to easily filter tasks by date, status, and priority, providing a streamlined and efficient task management experience.
 
@@ -51,19 +32,13 @@ Task Management Website + Mobile App</h3>
 
 ### 3. Mobile App and Responsive Design
 
-#### Mobile App
-
-![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996674/5_dndm7s.png)
-
 - Github Repo of Android App
 ```bash
-https://github.com/Puskar-Roy/Task-Management-App
+https://github.com/Shubham29op/task
 ```
 
 #### Responsive Design
 
-![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996651/4_bmgkfh.png)
-  
 
 ## Getting Started 🚀
 
@@ -78,7 +53,7 @@ Before you begin contributing to this project, make sure you have the following 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Puskar-Roy/Task-Management-Web
+   git clone https://github.com/Shubham29op/taskmanager
    ```
 2. **Install Dependencies:**
    ```bash
@@ -132,7 +107,7 @@ We welcome and appreciate contributions from the community ❤️! Here's how yo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Puskar Roy🖋️
+### Shubham
 
 
 
